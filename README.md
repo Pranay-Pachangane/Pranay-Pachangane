@@ -14,7 +14,7 @@ I am a Data Scientist.
 
 <div align="center">
 
-[<img align="center" src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F291716%2Fgithub_logo_social_network_social_icon&psig=AOvVaw1xb9X_63LlScvYplBEYBAH&ust=1642405163813000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCJnZ_itfUCFQAAAAAdAAAAABAD' alt='github' height='40'>](https://github.com/Pranay-Pachangane) 
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pranay-Pachangane) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranay-pachangane-8468541ab/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pranaynp7/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://www.blogger.com/blog/posts/730931294157781533)
@@ -23,11 +23,11 @@ I am a Data Scientist.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C/C++%20-%2343853D.svg?&style=for-the-badge&logo=C/C++&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
 <!-- <img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp; -->
-<img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
-<!-- <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp; 
+<!-- <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp; -->
 <img src="https://img.shields.io/badge/Artificial%20Intelligence%20-%2342853D.svg?&style=for-the-badge&logo=Artificial%20Intelligence&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Machine%20Learning%20-%2343853D.svg?&style=for-the-badge&logo=Machine%20Learning&logoColor=white" />&nbsp;&nbsp;
     
