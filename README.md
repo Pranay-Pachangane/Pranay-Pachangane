@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Pranay Pachangane</h1>
 <!--<p align="center">
-    <a href="https://github.com/Pranay-Pachangane"><img src="developer-dribbble.gif "/></a> 
+    <a href="https://github.com/Pranay-Pachangane"><img src="developer-dribbble.gif"/></a> 
 </p> 
 <h2 align="center"> 👨‍💻 Who am I?</h2>   -->
 <p align="center">
